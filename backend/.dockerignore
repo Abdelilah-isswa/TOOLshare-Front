@@ -1,0 +1,8 @@
+node_modules
+tests
+coverage
+docs
+.env
+.git
+Dockerfile
+*.md
